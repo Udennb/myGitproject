@@ -1,2 +1,1 @@
 # myGitproject
-#“Commit from RStudio”
